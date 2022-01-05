@@ -1,2 +1,3 @@
 # Installer
-Installer for the Modpack GoodDayMC
+Installer for Minecraft Modpacks 
+Made for GoodDayMC
